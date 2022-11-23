@@ -1,0 +1,10 @@
+app:
+  rental-cars:
+    -
+      uuid: '231e8f19-e94f-4f53-9c7c-4f52e1ed889c'
+      model: 'Toyota Camry'
+      stock: 2
+    -
+      uuid: 'db08af51-bbb7-437a-ad4d-a2b3ceb313d8'
+      model: 'BMW 650'
+      stock: 2
