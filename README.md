@@ -1,7 +1,7 @@
 ### About me
 It's ***Rental Car Booking API***, it contains below functions:
 - customers can see all the cars for rental
-- customers can reserve a specific for days
+- customers can reserve a specific car for days
 - customers can see reserve records by car
 - customers can return car by reserve record
 
