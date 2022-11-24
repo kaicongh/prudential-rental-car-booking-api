@@ -1,18 +1,18 @@
 ### About me
-It's ***Rental Car Booking Service***, it contains below functions:
+It's ***Rental Car Booking API***, it contains below functions:
 - customers can see all the cars for rental
 - customers can reserve a specific for days
 - customers can see reserve records by car
 - customers can return car by reserve record
 
-###How it works
-- ####Reserve Car Flow
-![img.png](img.png)
+### How it works
+- #### Reserve Car Flow
+![reserve_car](img/reserve_car.png)
 
-- ####Return Car Flow
-![img_1.png](img_1.png)
+- #### Return Car Flow
+![return_car](img/return_car.png)
 
-###API Endpoints
+### API Endpoints
 
 #### 1. Query All Rental Car Information
 if success, will return list of rental car information
